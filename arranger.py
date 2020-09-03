@@ -1,5 +1,4 @@
 #Simple Python Script To arrange your files in one click
-#Author: Shrestha Tripathi
 import os
 import glob
 #glob function of glob module to detect all files inside current directory
